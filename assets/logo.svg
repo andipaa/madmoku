@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Logo Madmoku">
+  <rect x="8" y="8" width="240" height="240" rx="56" fill="#1C1410"/>
+  <rect x="8" y="8" width="240" height="240" rx="56" fill="none" stroke="#C89A3D" stroke-width="6"/>
+  <!-- bungkus madumongso sederhana -->
+  <g transform="translate(128 84)">
+    <rect x="-42" y="-20" width="84" height="40" rx="8" fill="#3E2A1E" stroke="#E8B44A" stroke-width="4"/>
+    <path d="M -42 -12 L -58 -24 L -58 24 L -42 12 Z" fill="#E8B44A"/>
+    <path d="M 42 -12 L 58 -24 L 58 24 L 42 12 Z" fill="#E8B44A"/>
+    <circle cx="0" cy="0" r="7" fill="#E8B44A"/>
+  </g>
+  <text x="128" y="168" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="44" fill="#E8B44A" letter-spacing="1">Madmoku</text>
+  <text x="128" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15" fill="#FFF8EC" letter-spacing="3">MADUMONGSO • MADIUN</text>
+</svg>
